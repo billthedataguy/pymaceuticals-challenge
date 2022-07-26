@@ -7,7 +7,7 @@ jupyter notebook filename = "Pymaceuticals\pymaceuticals_starter-HW5_WILLIAM_VAN
 
 # Three observations or inferences that can be made from the data. 
 
-1. The linear regression model run for Capomulin suggests a **positive correlation** between mouse weight and average tumor size. (The r-value = 0.84 and the r-squared is: 0.71)
+1. The linear regression model run for Capomulin suggests a **positive correlation** between mouse weight and average tumor size. (The r-value = 0.84 and the r-squared = 0.71)
 
 2. Ramicane had summary statistics and timepoint data similar to Capomulin, which may warrant further investigation of **Ramicane's efficacy**.  
 
