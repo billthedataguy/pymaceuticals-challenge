@@ -1,6 +1,6 @@
 # pymaceuticals-challenge
 
-### William Vann Homework 5
+### William Vann 
 
 jupyter notebook filename = "Pymaceuticals\pymaceuticals_starter-HW5_WILLIAM_VANN_DONE.ipynb"
 
