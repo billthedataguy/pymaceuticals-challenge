@@ -1,8 +1,10 @@
 # pymaceuticals-challenge
 
-### William Vann 
+## William Vann 
 
-jupyter notebook filename = "Pymaceuticals\pymaceuticals_starter-HW5_WILLIAM_VANN_DONE.ipynb"
+## Demonstration of linear regression in Jupyter Notebook using Python.
+
+jupyter notebook filename = "Pymaceuticals/pymaceuticals_starter-HW5_WILLIAM_VANN_DONE.ipynb"
 
 
 # Three observations or inferences that can be made from the data. 
